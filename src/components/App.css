@@ -1,0 +1,62 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* src/ProfileCard.css */
+
+.profile_card {
+  border: 1px solid #ddd;
+  border-radius: 30px;
+  padding: 0 0 30px 0;
+  max-width: 350px;
+  /* max-height: 416px; */
+  text-align: center;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  background: white;
+}
+
+.profile_avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.profile_name {
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+.profile_title {
+  font-size: 1.2em;
+  color: #666;
+  margin: 5px 0;
+}
+
+
+.profile_social{
+  display: flex;
+  justify-content: center;
+  /* justify-content: space-between; */
+  gap: 20px;
+}
+.profile_btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  align-items: center;
+
+}
+.profile_btn .profile_foll_btn{
+  background: rgb(0, 0, 0);
+  color: white;
+}
+.profile_btn .profile_chat_btn{
+  background: #C7476E;
+  color: white;
+}

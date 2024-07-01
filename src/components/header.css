@@ -1,0 +1,20 @@
+.header-section {
+    background-color: #C7476E; /* Burgundy color */
+    border-radius: 20px 20px 0 0; /* Rounded top corners */
+    padding: 20px;
+    /* max-width: 300px; */
+    height: 100px;
+    position: relative; /* To position the image and waves */
+  }
+  .header_profile_photo {
+    position: absolute;
+    top: 20px;
+    right: 120px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    /* background: white; */
+  }
+
+
+  
