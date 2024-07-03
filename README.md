@@ -4,5 +4,5 @@ Worked on this using Vite + React + Htmĺ+ Css. For react, props were used to ma
 
 Currently, two official plugins are available:
 
-- Github repo: ()
+- Github repo: (https://github.com/Nuelsti/Profile-card.git)
 - Live site (https://profile-card-xi-brown.vercel.app/)  
