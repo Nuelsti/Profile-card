@@ -11,7 +11,7 @@ import Linkedin from './assets/linkedin.svg'
 import Twitter from './assets/twitter.svg'
 import Phone from './assets/phone.svg'
 import Email from './assets/gmail.svg'
-import Profile from './assets/baby.jpg'
+// import Profile from './assets/baby.jpg'
 import Pic from './assets/nuel.jpg'
 
 
